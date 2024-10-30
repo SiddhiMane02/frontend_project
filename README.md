@@ -1,0 +1,1 @@
+This FastFoodChaska website is fully responsive, so it adjusts smoothly to any screen size, whether you're on a phone, tablet, or computer. I used HTML for the structure, CSS for styling, and media queries to make it responsive across all devices.
